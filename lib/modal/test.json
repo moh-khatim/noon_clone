@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "iPhone 15",
+            "price": 50000.5,
+            "brand": {
+                "id": "1",
+                "name": "Apple",
+                "imageUrl": ""
+            },
+            "rating": 4.5,
+            "color": "White",
+            "modal_year": 2023,
+            "internal_storage": 128,
+            "ram": 8
+        }
+    ]
+}
